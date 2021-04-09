@@ -21,9 +21,9 @@
 		font-weight:500;
 		line-height:110px;
 		white-space: nowrap;
-		animation: content-marquee 15s infinite linear;
+		animation: content-marquee 20s infinite linear;
 		padding-left: 2vw;
-		color:#000;
+		color:#0c0c0c;
 	}
   
 	@media screen and (max-width: 600px) {
