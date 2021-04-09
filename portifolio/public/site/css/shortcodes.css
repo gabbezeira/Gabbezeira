@@ -26,6 +26,15 @@
 		color:#000;
 	}
   
+	@media screen and (max-width: 600px) {
+		.content-marquee{
+			display: none;
+		}
+		.topimg{
+			margin-bottom: 30px;
+		}
+	}
+
 	.content-marquee:after{
 		content: attr(data-text);
 		padding-left: 2vw;
