@@ -30,7 +30,7 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 
 ## **GitHub Estatísticas**
 
-| <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielweises&theme=material-palenight&hide_langs_below=1" /></a> | <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielweises&show_icons=true&theme=material-palenight&line_height=27" alt="**Gabriel Alves** github stats"/></a> |
+| <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielweises&theme=buefy&hide_langs_below=1" /></a> | <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielweises&show_icons=true&theme=buefy&line_height=27" alt="**Gabriel Alves** github stats"/></a> |
 | ------------- | ------------- |
 
 
