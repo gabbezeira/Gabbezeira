@@ -4,7 +4,6 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 
 <img align="right" width="300" src="bug-fix-bug.gif" />
 
-<br>
 
 **Sobre Mim 👨🏻‍💻**
 
@@ -14,7 +13,6 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 
 - 💬 Me pergunte sobre qualquer coisa [Aqui](https://instagram.com/gbr.code/)
 
-<br>
 
 ## **Linguagens e Ferramentas:**  
 
@@ -29,14 +27,12 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br>
 
 ## **GitHub Estatísticas**
 
 | <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielweises&theme=material-palenight&hide_langs_below=1" /></a> | <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielweises&show_icons=true&theme=material-palenight&line_height=27" alt="**Gabriel Alves** github stats"/></a> |
 | ------------- | ------------- |
 
-<br>
 
 #### Rede Sociais!
 
