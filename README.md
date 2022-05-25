@@ -2,8 +2,6 @@
 
 Me Chamo Gabriel Alves e esse é o meu GitHub!
 
-<img align="right" width="300" src="https://i.gifer.com/6tXM.gif" />
-
 **Sobre Mim 👨🏻‍💻**
 
 - 💼 Programador Junior na [Faculdade Patos de Minas](https://faculdadepatosdeminas.edu.br)
@@ -11,6 +9,8 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 - ❤️ Eu amo desenvolver sites e sistemas que resolvem problemas complexos de maneira simples.
 
 - 💬 Me pergunte sobre qualquer coisa [Aqui](https://instagram.com/gbr.code/)
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/3089141/screenshots/10144546/media/e0c873467a23a56feb95f8c4b4406d93.gif" />
 
 ```kotlin
 object **GAB** {
@@ -35,7 +35,6 @@ object **GAB** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 
 ## **GitHub Estatísticas**
 
