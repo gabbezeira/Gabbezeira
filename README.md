@@ -2,6 +2,10 @@
 
 Me Chamo Gabriel Alves e esse é o meu GitHub!
 
+<img align="right" width="300" src="bug-fix-bug.gif" />
+
+<br>
+
 **Sobre Mim 👨🏻‍💻**
 
 - 💼 Programador Junior na [Faculdade Patos de Minas](https://faculdadepatosdeminas.edu.br)
@@ -9,8 +13,6 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 - ❤️ Eu amo desenvolver sites e sistemas que resolvem problemas complexos de maneira simples.
 
 - 💬 Me pergunte sobre qualquer coisa [Aqui](https://instagram.com/gbr.code/)
-
-<img align="right" width="300" src="bug-fix-bug.gif" />
 
 ```kotlin
 object **GAB** {
