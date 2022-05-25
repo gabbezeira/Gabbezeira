@@ -12,7 +12,7 @@ object **GAB** {
  val acknowledgements = "CSS3"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Javascript", "Sass", "Node", "Next", "React") 
+ val languages = listOf("CSS3", "Javascript", "Sass", "Node", "Next", "React") 
 
 }
 ```
