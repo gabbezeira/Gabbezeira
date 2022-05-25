@@ -41,15 +41,12 @@ object **GAB** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielweises&show_icons=true&theme=dracula&line_height=27" alt="**Gabriel Alves** github stats"/>
 </a>
 
-[twitter]: https://twitter.com/gabrielberners
-[youtube]: https://www.youtube.com/channel/UC4pNKzi1GP58B0HZcWUhZyQ
-[instagram]: https://www.instagram.com/gbr.code/
-
 <br>
 
 #### Rede Sociais!
 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbr.code/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4pNKzi1GP58B0HZcWUhZyQ)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gabrielberners)
+
 
