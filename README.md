@@ -10,7 +10,7 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 
 - 💬 Me pergunte sobre qualquer coisa [Aqui](https://instagram.com/gbr.code/)
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/3089141/screenshots/10144546/media/e0c873467a23a56feb95f8c4b4406d93.gif" />
+<img align="right" width="300" src="bug-fix-bug.gif" />
 
 ```kotlin
 object **GAB** {
