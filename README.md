@@ -2,9 +2,13 @@
 
 Me Chamo Gabriel Alves e esse é o meu GitHub!
 
-## Sobre mim 👨🏻‍💻
+**Sobre Mim 👨🏻‍💻**
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+- 💼 Programador Junior na [Faculdade Patos de Minas](http://faculdadepatosdeminas.edu.br)
+
+- ❤️ Eu amo desenvolver sites e sistemas que resolvem problemas complexos de maneira simples.
+
+- 💬 Me pergunte sobre qualquer coisa [Aqui](https://instagram.com/gbr.code/)
 
 ```kotlin
 object **GAB** {
@@ -33,13 +37,8 @@ object **GAB** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielweises&theme=material-palenight&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielweises&show_icons=true&theme=material-palenight&line_height=27" alt="**Gabriel Alves** github stats"/>
-</a>
+| <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielweises&theme=material-palenight&hide_langs_below=1" /></a> | <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielweises&show_icons=true&theme=material-palenight&line_height=27" alt="**Gabriel Alves** github stats"/></a> |
+| ------------- | ------------- |
 
 <br>
 
