@@ -2,7 +2,7 @@
 
 Me Chamo Gabriel Alves e esse é o meu GitHub!
 
-## <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/507/507618.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/3314/3314387.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
