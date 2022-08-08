@@ -7,7 +7,7 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 
 **Sobre Mim 👨🏻‍💻**
 
-- 💼 Programador Junior na [Faculdade Patos de Minas](https://faculdadepatosdeminas.edu.br)
+- 💼 Programador Front-End.
 
 - ❤️ Eu amo desenvolver sites e sistemas que resolvem problemas complexos de maneira simples.
 
