@@ -2,7 +2,7 @@
 
 Me Chamo Gabriel Alves e esse é o meu GitHub!
 
-<img align="right" width="300" src="bug-fix-bug.gif" />
+<img width="300" src="bug-fix-bug.gif" />
 
 
 **Sobre Mim 👨🏻‍💻**
