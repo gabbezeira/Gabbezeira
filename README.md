@@ -33,7 +33,7 @@ Me Chamo Gabriel Alves e esse é o meu GitHub!
 ## **GitHub Estatísticas**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabbezeira&show_icons=true)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbezeira&hide=html&layout=compact&theme=default)](https://github.com/gabbezeira/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbezeira&hide=html&layout=compact&theme=dracula)](https://github.com/gabbezeira/)
 
 
 #### Rede Sociais!
